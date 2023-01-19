@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Pavan Malviya
-##### Learning Devops and Cloud 
+##### Learning Web Devlopement 
 
 <!--
 **Pavan-Malviya/Pavan-Malviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
